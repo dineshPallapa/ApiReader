@@ -1,4 +1,4 @@
-# This ruby module can be included where ever
+# Include this ruby module in any class and pass filename with path as an argument to get_json_file_path method
 require 'json'
 
 module UseApiLayer
